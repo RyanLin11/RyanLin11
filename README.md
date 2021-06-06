@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Hi, I'm Ryan! I like learning about new technologies and building side projects. You can usually find me having fun at MLH Hackathons in the summer, or competing in Google coding competitions.
+
+### Current Projects
+- Nothing at the moment.
+
+### What I'm Currently Learning
+- C++ language
+- Django framework
+
 <!--
 **RyanLin11/RyanLin11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
