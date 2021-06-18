@@ -7,7 +7,8 @@ Hi, I'm Ryan! I like learning about new technologies and building side projects.
 
 ### What I'm Currently Learning
 - C++ language
-- Django framework
+- React.js
+- Express.js
 
 <!--
 **RyanLin11/RyanLin11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
