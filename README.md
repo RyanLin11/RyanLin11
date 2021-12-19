@@ -3,7 +3,7 @@
 Hi, I'm Ryan! I like learning about new technologies and building side projects. You can usually find me having fun at MLH Hackathons in the summer, or competing in Google coding competitions.
 
 ### Current Projects
-- Nothing at the moment.
+- A MERN Stack Website for University students to sublet and find accommodations, as well as find compatible roommates for a better University experience!
 
 ### What I'm Currently Learning
 - C++ language
