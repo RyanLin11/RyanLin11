@@ -4,6 +4,7 @@ Hi, I'm Ryan! I like learning about new technologies and building side projects.
 
 ### Current Projects
 - A MERN Stack Website for University students to sublet and find accommodations, as well as find compatible roommates for a better University experience!
+- A modern chatroom application implemented using Socket.IO and a REST API
 
 ### What I'm Currently Learning
 - C++ language
