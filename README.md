@@ -7,8 +7,8 @@ Hi, I'm Ryan! I like learning new technologies and building side projects.
 - Cherrypick: A websockets app that enables real-time voting on restaurants for a night out with friends.
 
 ### 🌱 I'm currently learning
-- Concurrent Programming
-- C++ Language
-- Web Security
-- Database Design
-- Dockerization
+- 🔀 Concurrent Programming
+- ⚙️ C++ Language
+- 🕵️ Web Security
+- 📊 Database Design
+- 🐳 Dockerization
